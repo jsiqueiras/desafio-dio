@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![passwd](https://github.com/jsiqueiras/desafio-dio/assets/47321639/6a4a7f6e-4ef7-4d31-a398-8232508cd546)
